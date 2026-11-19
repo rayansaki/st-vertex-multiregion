@@ -1,0 +1,8 @@
+{
+    "name": "st-vertex-multiregion",
+    "version": "1.0.0",
+    "description": "SillyTavern server plugin: lets Vertex AI use the us/eu multi-region endpoints.",
+    "main": "index.mjs",
+    "type": "module",
+    "license": "MIT"
+}
